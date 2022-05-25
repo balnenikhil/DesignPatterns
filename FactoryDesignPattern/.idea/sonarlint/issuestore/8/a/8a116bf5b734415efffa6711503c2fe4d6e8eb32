@@ -1,0 +1,5 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÙÔ¬Ì
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚ã §
+Q
+java:S1128"4Remove this unused import 'payment.type.CreditCard'.(¦ÿ×å8•åŠ0
