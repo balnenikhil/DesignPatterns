@@ -7,4 +7,5 @@ public class SmartShareAdapter implements SmartShare{
     public void upload(String file) {
         drive.uploadFile(file);
     }
+
 }
